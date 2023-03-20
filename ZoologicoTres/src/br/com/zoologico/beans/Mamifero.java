@@ -2,14 +2,14 @@ package br.com.zoologico.beans;
 
 public class Mamifero extends Animal{
 
-	private int mesesGestação;
+	private int mesesGestacao;
 
-	public int getMesesGestação() {
-		return mesesGestação;
+	public int getMesesGestacao() {
+		return mesesGestacao;
 	}
 
-	public void setMesesGestação(int mesesGestação) {
-		this.mesesGestação = mesesGestação;
+	public void setMesesGestação(int mesesGestacao) {
+		this.mesesGestacao = mesesGestacao;
 	}
 
 }
